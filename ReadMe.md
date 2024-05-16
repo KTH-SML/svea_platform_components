@@ -11,4 +11,9 @@
 
 ## Mid
 - [Main Plate](https://a360.co/44Hyj59)
+
+## Battery
+- [Lipo Holder](https://a360.co/4bwMj3Q)
+- [Nimh Holder](https://a360.co/4amPGJM)
+- [Bottom Attatchment](https://a360.co/3QOkz2H)
 - 
